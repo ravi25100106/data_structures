@@ -1,6 +1,7 @@
+#given list
 list=[10,1,5,0,6,8,7,3,11,4] 
 
-i=1
+i=1 #iter variable
 while(i<10):
       element=list[i]
       j=i
